@@ -26,7 +26,7 @@ SECRET_KEY = '_cnny3!f1#p(@wgp!54%k-%*=x+86vj*cax$y#f2ic1e5pbgh_'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['localhost', '127.0.0.1', 'learning-django-carroz.herokuapp.com',]
 
 
 # Application definition
